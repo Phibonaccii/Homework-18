@@ -28,8 +28,8 @@ In this assignment, you'll create a web app that lets users leave comments on th
     * Notice the value that appears after `MONGODB_URI =>`. This is your URI string. Copy it to a document for safekeeping.
 14. When you’re ready to connect Mongoose with your remote database, simply paste the URI string as the lone argument of your `mongoose.connect()` function. That’s it!
 
-15. [Watch this demo of a possible submission](Week-18-Homework-Video.mov). 
-16. Your site doesn't need to match the demo's style, but feel free to attempt something similar if you'd like. Otherwise, just be creative!
+
+15. Your site doesn't need to match the demo's style, but feel free to attempt something similar if you'd like. Otherwise, just be creative!
 
 ## Instructions
 
